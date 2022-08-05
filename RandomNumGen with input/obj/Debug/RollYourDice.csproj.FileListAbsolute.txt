@@ -1,0 +1,8 @@
+C:\Users\Ivan\Desktop\Za GitHub\RollYourDice\obj\Debug\RollYourDice.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\Za GitHub\RollYourDice\obj\Debug\RollYourDice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\Desktop\Za GitHub\RollYourDice\obj\Debug\RollYourDice.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Za GitHub\RollYourDice\bin\Debug\RollYourDice.exe.config
+C:\Users\Ivan\Desktop\Za GitHub\RollYourDice\bin\Debug\RollYourDice.exe
+C:\Users\Ivan\Desktop\Za GitHub\RollYourDice\bin\Debug\RollYourDice.pdb
+C:\Users\Ivan\Desktop\Za GitHub\RollYourDice\obj\Debug\RollYourDice.exe
+C:\Users\Ivan\Desktop\Za GitHub\RollYourDice\obj\Debug\RollYourDice.pdb

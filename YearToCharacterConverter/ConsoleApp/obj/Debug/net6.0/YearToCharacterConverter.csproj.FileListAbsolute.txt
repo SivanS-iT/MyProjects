@@ -1,0 +1,15 @@
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\bin\Debug\net6.0\YearToCharacterConverter.exe
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\bin\Debug\net6.0\YearToCharacterConverter.deps.json
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\bin\Debug\net6.0\YearToCharacterConverter.runtimeconfig.json
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\bin\Debug\net6.0\YearToCharacterConverter.dll
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\bin\Debug\net6.0\YearToCharacterConverter.pdb
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\obj\Debug\net6.0\YearToCharacterConverter.csproj.AssemblyReference.cache
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\obj\Debug\net6.0\YearToCharacterConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\obj\Debug\net6.0\YearToCharacterConverter.AssemblyInfoInputs.cache
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\obj\Debug\net6.0\YearToCharacterConverter.AssemblyInfo.cs
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\obj\Debug\net6.0\YearToCharacterConverter.csproj.CoreCompileInputs.cache
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\obj\Debug\net6.0\YearToCharacterConverter.dll
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\obj\Debug\net6.0\refint\YearToCharacterConverter.dll
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\obj\Debug\net6.0\YearToCharacterConverter.pdb
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\obj\Debug\net6.0\YearToCharacterConverter.genruntimeconfig.cache
+C:\Users\ivan.sambol\Desktop\GitHub\YearToCharacterConverter\ConsoleApp\obj\Debug\net6.0\ref\YearToCharacterConverter.dll

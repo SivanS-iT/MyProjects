@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "U2oqQeubF+VL1522dvHs/ohY7pagWnCjKHGVo8zmE8CvfDBY1IqBu4zCDwa8J0Z1efPNrmUeOBFHJpO1ENvQcQ==",
+  "dgSpecHash": "kHMOpJxhD/OIEqQl9iIlkDyqxCwEc5HWycu/7dSkP38/YNf9Xn9yugQQtB4v9M4OByxnxTGczNyXGkoKCCnVuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ivan.sambol\\Desktop\\GitHub\\MyProjects\\YearToCharacterConverter\\ConsoleApp\\NumberToAlphabetCharacter.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ivan.sambol\\Desktop\\Sambol Trening\\GitHub ------------------\\SmallProjects\\YearToCharacterConverter\\ConsoleApp\\NumberToAlphabetCharacter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivan.sambol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\ivan.sambol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\ivan.sambol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\ivan.sambol\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

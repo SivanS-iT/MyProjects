@@ -17,10 +17,8 @@ namespace NumberGuesserProg
             string input = Console.ReadLine();
             Console.WriteLine("Thank you {0} for joining and lets play", input);
 
-
             while (true)
             {
-
                 Random random = new Random();
                 int rightNumber = random.Next(1, 10);
                 int numberGuess = 0;
@@ -40,7 +38,6 @@ namespace NumberGuesserProg
                     }
 
                     numberGuess = Int32.Parse(inputNumber);
-
                     // Match guess to correct number
                     if (numberGuess != rightNumber)
                     {
@@ -61,10 +58,8 @@ namespace NumberGuesserProg
                 else{
                     return;
                 }
-
             }
-        
-        
+              
         }
         // Funkcion for colours
         static void PrintColorMessage(ConsoleColor color, string message)
